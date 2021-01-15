@@ -1,4 +1,4 @@
-# new-to-this
+# IBM Data Science Coursera Assignment
 
 ## Editing the file
 
